@@ -1,3 +1,5 @@
+This README shows a prototype version of the application. We are currently in the process of developing a production quality version.
+
 # AutoM8
 AutoM8 is a cross-platform (Web, IOS, and Android) application designed to assist construction business in quote generation.
 
